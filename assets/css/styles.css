@@ -3,6 +3,8 @@ body{
  }
  .dim{
     opacity: 0.1555;
+    border-radius: 5%;
+    border: 1px solid black;
   }
 
   .priceDiv {
